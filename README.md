@@ -28,5 +28,5 @@ Connect with me:
 [![WhatsApp](https://img.icons8.com/color/48/000000/whatsapp.png)](https://wa.me/254115348341text=Hello%20Patoo!%20I'm%20interested%20in%20collaborating%20on%20a%20project.)
 [![Gmail](https://img.icons8.com/color/50/000000/gmail.png)](mailto:patrickalunya106@gmail.com)
 
-Feel free to reach out via WhatsApp at <a href="tel: +254115348341">+254115348341</a> or email me at patrickalunya106@gmail.com
+Feel free to reach out via WhatsApp at [![WhatsApp](https://img.icons8.com/color/48/000000/whatsapp.png)](https://wa.me/254115348341text=Hello%20Patoo!%20I'm%20interested%20in%20collaborating%20on%20a%20project.) or email me at [![Gmail](https://img.icons8.com/color/50/000000/gmail.png)](mailto:patrickalunya106@gmail.com)
 
